@@ -1,0 +1,50 @@
+body {
+    background-image:url('/images/lednik.jpg');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+.container {
+	background: rgba(255, 255, 255, .6);
+	
+}
+
+.jumbotron {
+	background: rgba(255, 255, 255, .4);
+}
+
+.navbar {
+	background: rgba(255, 255, 255, 1);
+}
+
+#special
+{
+  display: inline-block;
+  height: auto;
+  max-width: 25px;
+}
+
+#date
+{
+  color: #FF6600;
+}
+
+#navbarText
+{
+	font-size: 1em;
+	font-weight: bold;
+}
+
+#labelText
+{
+	font-weight: bold;
+}
+
+.card-columns
+{
+  column-count: 2;	
+}
+
+.modal .modal-dialog {
+  width: 100%; 
+}
